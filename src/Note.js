@@ -10,4 +10,3 @@ export const Note = ({ content, date }) => {
   );
 };
 
-export const getNumber = () => 2;
